@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\bin\Debug\BSTree.exe.config
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\bin\Debug\BSTree.exe
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\bin\Debug\BSTree.pdb
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\obj\Debug\BSTree.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\obj\Debug\BSTree.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\obj\Debug\BSTree.exe
+C:\Users\Rodrigo\source\repos\BSTree\BSTree\obj\Debug\BSTree.pdb

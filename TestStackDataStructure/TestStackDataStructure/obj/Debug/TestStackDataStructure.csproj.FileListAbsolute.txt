@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\obj\Debug\TestStackDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\bin\Debug\TestStackDataStructure.exe.config
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\bin\Debug\TestStackDataStructure.exe
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\bin\Debug\TestStackDataStructure.pdb
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\obj\Debug\TestStackDataStructure.exe
+C:\Users\Rodrigo\source\repos\TestStackDataStructure\TestStackDataStructure\obj\Debug\TestStackDataStructure.pdb

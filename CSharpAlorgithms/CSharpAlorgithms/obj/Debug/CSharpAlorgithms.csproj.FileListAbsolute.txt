@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\bin\Debug\CSharpAlorgithms.exe.config
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\bin\Debug\CSharpAlorgithms.exe
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\bin\Debug\CSharpAlorgithms.pdb
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\obj\Debug\CSharpAlorgithms.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\obj\Debug\CSharpAlorgithms.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\obj\Debug\CSharpAlorgithms.exe
+C:\Users\Rodrigo\source\repos\CSharpAlorgithms\CSharpAlorgithms\obj\Debug\CSharpAlorgithms.pdb

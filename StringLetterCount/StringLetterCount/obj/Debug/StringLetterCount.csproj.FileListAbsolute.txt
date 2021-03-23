@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\bin\Debug\StringLetterCount.exe.config
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\bin\Debug\StringLetterCount.exe
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\bin\Debug\StringLetterCount.pdb
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\obj\Debug\StringLetterCount.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\obj\Debug\StringLetterCount.exe
+C:\Users\Rodrigo\source\repos\StringLetterCount\StringLetterCount\obj\Debug\StringLetterCount.pdb
