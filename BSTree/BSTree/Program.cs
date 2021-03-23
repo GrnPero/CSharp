@@ -20,6 +20,12 @@ namespace BSTree
 
             tree.inOrder();
 
+            tree.deleteValue(1);
+
+            Console.WriteLine("\n");
+
+            tree.inOrder();
+
             Console.ReadLine();
         }
     }

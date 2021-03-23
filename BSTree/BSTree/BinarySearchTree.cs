@@ -29,6 +29,48 @@ namespace BSTree
             root = null;
         }
 
+        public void deleteValue(int value) { this.root = deleteRecursion(this.root, value); }
+
+        public Node deleteRecursion(Node root, int value)
+        {
+            // Tree is empty!
+            if (root == null)
+                return root;
+            // Iterate to left or right node to find the value to delete
+            if (value < root.value)
+            {
+                root.left = deleteRecursion(root.left, value);
+            } else if (value > root.value)
+            {
+                root.right = deleteRecursion(root.right, value);
+            } else // Found value!
+            {
+                if (root.left == null)
+                {
+                    return root.right;
+                } else if (root.right == null)
+                {
+                    return root.left;
+                }
+
+                root.value = minValue(root.right);
+
+                root.right = deleteRecursion(root.right, root.value);
+            }
+            return root;
+        }
+
+        public int minValue(Node root)
+        {
+            int minVal = root.value;
+            while (root.left != null)
+            {
+                minVal = root.left.value;
+                root = root.left;
+            }
+            return minVal;
+        }
+
         public void insert(int value)
         {
             root = insertRecursion(root, value);
