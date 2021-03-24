@@ -5,3 +5,10 @@ C:\Users\Rodrigo\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.csprojA
 C:\Users\Rodrigo\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
 C:\Users\Rodrigo\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.exe
 C:\Users\Rodrigo\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Rodrigo\source\repos\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

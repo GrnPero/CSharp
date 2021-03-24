@@ -29,10 +29,12 @@ namespace Palindrome
 
             if (!IsLetter(first))
             {
+                Console.WriteLine("first");
                 return IsPalindrome(s.Substring(1));
             }
             else if (!IsLetter(last))
             {
+                Console.WriteLine("last");
                 return IsPalindrome(s.Substring(0, s.Length - 1));
             }
             else if (first == last)
@@ -56,12 +58,6 @@ namespace Palindrome
             }
 
             Console.WriteLine("a palindrome.\n");
-
-            string word = "Hello";
-
-            int number = word.Length;
-            Console.WriteLine(number);
-
             Console.ReadLine();
         }
     }
