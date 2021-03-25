@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.exe.config
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.exe
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\bin\Debug\SingleLinkedList.pdb
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.exe
+C:\Users\Rodrigo\source\repos\SingleLinkedList\SingleLinkedList\obj\Debug\SingleLinkedList.pdb
